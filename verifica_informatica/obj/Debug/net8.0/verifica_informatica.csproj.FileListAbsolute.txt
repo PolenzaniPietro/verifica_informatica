@@ -1,0 +1,15 @@
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\bin\Debug\net8.0\verifica_informatica.exe
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\bin\Debug\net8.0\verifica_informatica.deps.json
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\bin\Debug\net8.0\verifica_informatica.runtimeconfig.json
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\bin\Debug\net8.0\verifica_informatica.dll
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\bin\Debug\net8.0\verifica_informatica.pdb
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\obj\Debug\net8.0\verifica_informatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\obj\Debug\net8.0\verifica_informatica.AssemblyInfoInputs.cache
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\obj\Debug\net8.0\verifica_informatica.AssemblyInfo.cs
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\obj\Debug\net8.0\verifica_informatica.csproj.CoreCompileInputs.cache
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\obj\Debug\net8.0\verifica_informatica.sourcelink.json
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\obj\Debug\net8.0\verifica_informatica.dll
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\obj\Debug\net8.0\refint\verifica_informatica.dll
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\obj\Debug\net8.0\verifica_informatica.pdb
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\obj\Debug\net8.0\verifica_informatica.genruntimeconfig.cache
+C:\Users\polenzani.pietro\Desktop\verifica_informatica\verifica_informatica\obj\Debug\net8.0\ref\verifica_informatica.dll
